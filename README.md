@@ -4,6 +4,10 @@
 
 <img src="http://rdbuploads.s3.amazonaws.com/infographic/info-codechallenge.png">
 
+Challenge Framework
+===================
+Our challenge framework allows a site to feature a challenge where users can register and login via the site but the members will be added to the Contrib network.
+
 
 
 
